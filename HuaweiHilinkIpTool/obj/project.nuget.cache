@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dUb6rx+tBTpwkUndMtDr1vCMwL8C0aB2GY18lhYNwz/IjPMg2XST6hg4Kf4JGqK7TF8eqI0SSky/r8TeKv1qFQ==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\HuaweiHilinkIpTool\\HuaweiHilinkIpTool\\HuaweiHilinkIpTool.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\qkhuy\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
